@@ -15,7 +15,7 @@ Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 
  Artistnavn: VuBrax
 
-##  Kodespråk jeg bruker
+## 🧠 Kodespråk jeg bruker
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" />
@@ -27,7 +27,7 @@ Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 
 ---
 
-##  Frameworks & biblioteker
+## 🧩 Frameworks & biblioteker
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/react" height="40" alt="React" />
@@ -39,7 +39,7 @@ Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 
 ---
 
-##  Verktøy & annet
+## 🛠️ Verktøy & annet
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/visualstudiocode" height="40" alt="VS Code" />
