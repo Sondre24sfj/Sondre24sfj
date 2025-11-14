@@ -18,30 +18,24 @@ Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 ## 🛠️ Teknologier og rammeverk
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postcss/postcss-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" />
-</p>
-
-<p align="center">
-HTML5 · CSS3 · JavaScript · React · Next.js · Tailwind · TypeScript · Node.js ·  
-VS Code · Git · GitHub · Figma · Vite · NPM · PostCSS · WordPress ·  
-C++ · Qt/QML
+  <img src="https://cdn.simpleicons.org/html5" height="36" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3" height="36" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript" height="36" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/react" height="36" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="36" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="36" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/typescript" height="36" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="36" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="36" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/git" height="36" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="36" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/figma" height="36" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/vite" height="36" alt="Vite" />
+  <img src="https://cdn.simpleicons.org/npm" height="36" alt="NPM" />
+  <img src="https://cdn.simpleicons.org/postcss" height="36" alt="PostCSS" />
+  <img src="https://cdn.simpleicons.org/wordpress" height="36" alt="WordPress" />
+  <img src="https://cdn.simpleicons.org/cplusplus" height="36" alt="C++" />
+  <img src="https://cdn.simpleicons.org/qt" height="36" alt="Qt" />
 </p>
 
 
