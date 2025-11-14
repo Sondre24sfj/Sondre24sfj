@@ -15,28 +15,43 @@ Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 
  Artistnavn: VuBrax
 
-## 🛠️ Teknologier og rammeverk
+##  Kodespråk jeg bruker
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/html5" height="36" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3" height="36" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript" height="36" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/react" height="36" alt="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="36" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" height="36" alt="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/typescript" height="36" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="36" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode" height="36" alt="VS Code" />
-  <img src="https://cdn.simpleicons.org/git" height="36" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="36" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/figma" height="36" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/vite" height="36" alt="Vite" />
-  <img src="https://cdn.simpleicons.org/npm" height="36" alt="NPM" />
-  <img src="https://cdn.simpleicons.org/postcss" height="36" alt="PostCSS" />
-  <img src="https://cdn.simpleicons.org/wordpress" height="36" alt="WordPress" />
-  <img src="https://cdn.simpleicons.org/cplusplus" height="36" alt="C++" />
-  <img src="https://cdn.simpleicons.org/qt" height="36" alt="Qt" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3" height="40" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/cplusplus" height="40" alt="C++" />
 </p>
+
+---
+
+##  Frameworks & biblioteker
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/react" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="40" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/qt" height="40" alt="Qt / QML" />
+</p>
+
+---
+
+##  Verktøy & annet
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="40" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/git" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/figma" height="40" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/vite" height="40" alt="Vite" />
+  <img src="https://cdn.simpleicons.org/npm" height="40" alt="NPM" />
+  <img src="https://cdn.simpleicons.org/postcss" height="40" alt="PostCSS" />
+  <img src="https://cdn.simpleicons.org/wordpress" height="40" alt="WordPress" />
+</p>
+
 
 
 
