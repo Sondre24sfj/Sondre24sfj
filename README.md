@@ -10,11 +10,13 @@ Om meg
 Jeg er en fullstack-utvikler med erfaring fra React, Next.js, Node.js, Qt/QML, C++, skyløsninger og UI/UX-design fra Figma.
 Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 
- Trainee Fullstack Developer – Hetronic Nordic
- Nettside: https://akerholt-as.no
- Artistnavn: VuBrax
+Trainee Fullstack Developer – Hetronic Nordic  
+Nettside: https://akerholt-as.no  
+Artistnavn: VuBrax  
+Spotify: https://open.spotify.com/artist/150pRptg25mMBdvAbHnsBa
 
-## 🧠 Kodespråk jeg bruker
+
+##  Kodespråk jeg bruker
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -26,24 +28,25 @@ Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 
 ---
 
-## 🧩 Frameworks
+##  Frameworks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" />
 </p>
 
 ---
 
-## 🛠️ Verktøy
+##  Verktøy
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg?color=ffffff" height="40" />
+  <!-- Hvit GitHub-logo fra SimpleIcons -->
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
