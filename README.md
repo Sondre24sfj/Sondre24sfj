@@ -1,4 +1,4 @@
-✨ Sondre Akerholt — Fullstack utvikler
+✨ Sondre — Fullstack utvikler
 
 React · Next.js · Node.js · Tailwind · TypeScript · Qt/QML · C++
 
