@@ -10,7 +10,7 @@ Om meg
 Jeg er en fullstack-utvikler med erfaring fra React, Next.js, Node.js, Qt/QML, C++, skyløsninger og UI/UX-design fra Figma.
 Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 
-Trainee Fullstack Developer – Hetronic Nordic  
+Fullstack Developer – Hetronic Nordic  
 Nettside: https://akerholt-as.no  
 Artistnavn: VuBrax  
 Spotify: https://open.spotify.com/artist/150pRptg25mMBdvAbHnsBa
