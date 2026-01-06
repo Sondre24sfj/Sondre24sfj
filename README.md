@@ -10,7 +10,7 @@ Om meg
 Jeg er en fullstack-utvikler med erfaring fra React, Next.js, Node.js, Qt/QML, C++, skyløsninger og UI/UX-design fra Figma.
 Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 
-IT-Driftsteknikker for Jaba AS
+IT-Driftsteknikker for Jaba AS.
 Nettside: https://jaba.no
 Nettside: https://akerholt-as.no  
 Artistnavn: VuBrax  
