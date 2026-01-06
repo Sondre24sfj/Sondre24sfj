@@ -12,7 +12,7 @@ Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
 
 IT-Driftsteknikker for Jaba AS.    
 
-Nettside: https://jaba.no
+
 Nettside: https://akerholt-as.no  
 Artistnavn: VuBrax  
 Spotify: https://open.spotify.com/artist/150pRptg25mMBdvAbHnsBa
