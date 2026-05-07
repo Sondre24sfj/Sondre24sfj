@@ -1,21 +1,18 @@
-✨ Sondre — Fullstack utvikler
+Sondre | Fullstack Utvikler & IT-Konsulent
+Jeg er en løsningsorientert utvikler med en fot i moderne web-økosystemer og den andre i industriell programvareutvikling. Min styrke ligger i å bygge bro mellom komplekse backend-systemer og intuitive brukergrensesnitt.
 
-React · Next.js · Node.js · Tailwind · TypeScript · Qt/QML · C++
+Kjernekompetanse
+Web: React, Next.js, TypeScript, Node.js og Tailwind CSS.
+Industriell HMI: C++ og Qt/QML for robuste kontrollsystemer.
+Design & Drift: UI/UX-design i Figma og Canva, skyløsninger og IT-infrastruktur.   
 
-Hei! Jeg er en løsningsorientert fullstack-utvikler med erfaring fra moderne web-teknologier og industriell HMI-utvikling i Qt/QML.
-Jeg lager raske, solide og brukervennlige systemer — fra idé → prototype → utvikling → drift.
+Ved siden av kodingen
+Utover programmering har jeg en interesse for musikkproduksjon og digital kreativitet.
 
-Om meg
+Virksomhet: akerholt-as.no
+Musikk: Produserer under navnet VuBrax
+Streaming: Finn meg på Spotify
 
-Jeg er en fullstack-utvikler med erfaring fra React, Next.js, Node.js, Qt/QML, C++, skyløsninger og UI/UX-design fra Figma.
-Elsker prosjekter der jeg kan ta hele prosessen — fra idé til ferdig system.
-
-IT-Driftsteknikker for Jaba AS.    
-
-
-Nettside: https://akerholt-as.no  
-Artistnavn: VuBrax  
-Spotify: https://open.spotify.com/artist/150pRptg25mMBdvAbHnsBa
 
 
 ##  Kodespråk jeg bruker
