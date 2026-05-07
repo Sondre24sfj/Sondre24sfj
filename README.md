@@ -1,23 +1,21 @@
 Sondre | Fullstack Utvikler & IT-Konsulent
-Jeg er en løsningsorientert utvikler med en fot i moderne web-økosystemer og den andre i industriell programvareutvikling. Min styrke ligger i å bygge bro mellom komplekse backend-systemer og intuitive brukergrensesnitt.
+Jeg er en løsningsorientert utvikler som spesialiserer seg på skjæringspunktet mellom moderne web-økosystemer og industriell programvareutvikling. Min styrke ligger i å bygge bro mellom komplekse backend-systemer og intuitive brukergrensesnitt.
 
 Kjernekompetanse
-Web: React, Next.js, TypeScript, Node.js og Tailwind CSS.
+- Web: React, Next.js, TypeScript, Node.js og Tailwind CSS.
 
-Industriell HMI: C++ og Qt/QML for robuste kontrollsystemer.
+- Industriell HMI: C++ og Qt/QML for robuste kontrollsystemer.
 
-Design & Drift: UI/UX-design i Figma og Canva, skyløsninger og IT-infrastruktur.   
+- Design & Drift: UI/UX-design i Figma og Canva, skyløsninger og IT-infrastruktur.
 
 Ved siden av kodingen
+Utover programmering har jeg en sterk interesse for musikkproduksjon og digital kreativitet. Jeg kombinerer det tekniske med det kreative i alle prosjekter jeg går inn i.
 
-Utover programmering har jeg en interesse for musikkproduksjon og digital kreativitet.
+- Virksomhet: akerholt-as.no
 
-Virksomhet: akerholt-as.no
+- Musikk: Produserer under navnet VuBrax
 
-Musikk: Produserer under navnet VuBrax
-
-Streaming: Finn meg på Spotify
-
+- Streaming: Finn meg på Spotify
 
 
 ##  Kodespråk jeg bruker
