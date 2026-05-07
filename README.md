@@ -3,14 +3,19 @@ Jeg er en løsningsorientert utvikler med en fot i moderne web-økosystemer og d
 
 Kjernekompetanse
 Web: React, Next.js, TypeScript, Node.js og Tailwind CSS.
+
 Industriell HMI: C++ og Qt/QML for robuste kontrollsystemer.
+
 Design & Drift: UI/UX-design i Figma og Canva, skyløsninger og IT-infrastruktur.   
 
 Ved siden av kodingen
+
 Utover programmering har jeg en interesse for musikkproduksjon og digital kreativitet.
 
 Virksomhet: akerholt-as.no
+
 Musikk: Produserer under navnet VuBrax
+
 Streaming: Finn meg på Spotify
 
 
